@@ -1,2 +1,2 @@
-venv
-src\\.ipynb_checkpoints
+venv/
+src//.ipynb_checkpoints/
